@@ -1,0 +1,5 @@
+{
+  "ad_config": { "showAllAds": true, "showTopButton": true, "useInterSplash": true, "useInterStart": true, "intervalShowInter": 15 },
+  "app_configs": { "onlyShowLanguage": true },
+  "iap_config": { "enable": true, "enableBeforeHome": true, "favouriteLimit": 4 }
+}

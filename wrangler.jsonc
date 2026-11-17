@@ -1,0 +1,6 @@
+{
+  "name": "remote-config",
+  "main": "src/index.js",
+  "compatibility_date": "2026-11-01",
+  "kv_namespaces": [{ "binding": "CONFIG", "id": "79567fac7ac34124bbfcf4e80de74918" }]
+}
